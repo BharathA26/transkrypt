@@ -1,0 +1,5 @@
+{
+  "name": "Capta - Live Caption Recorder",
+  "description": "A professional Chrome Extension to record, visualize, and download live captions from Google Meet and Zoom.",
+  "requestFramePermissions": []
+}
